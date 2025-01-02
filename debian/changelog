@@ -1,0 +1,6 @@
+python3-langid (0.5.4-0llx23) jammy; urgency=medium
+
+  * py3langid preliminar package 
+  * https://github.com/adbar/py3langid
+ -- Juanma1980 <juanma1980@gmail.com>  Fri, 20 Dec 2024 08:25:33 +0100
+
