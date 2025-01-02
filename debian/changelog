@@ -1,4 +1,4 @@
-python3-langid (0.5.4-0llx23) jammy; urgency=medium
+python3-langid (0.3.0-0llx23) jammy; urgency=medium
 
   * py3langid preliminar package 
   * https://github.com/adbar/py3langid
